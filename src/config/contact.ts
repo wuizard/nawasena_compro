@@ -7,8 +7,8 @@
  *
  * While a value is empty, its buttons are shown as disabled and the floating WhatsApp button is hidden.
  */
-export const WHATSAPP_NUMBER = "";
-export const CONTACT_EMAIL = "";
+export const WHATSAPP_NUMBER = "628194255211";
+export const CONTACT_EMAIL = "support@nawantech.com";
 
 export const isWhatsAppConfigured = WHATSAPP_NUMBER.trim().length > 0;
 export const isEmailConfigured = CONTACT_EMAIL.trim().length > 0;
